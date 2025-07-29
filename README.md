@@ -51,9 +51,8 @@ basic-calculator/
 
 ---
 
-**👨‍💻 Reach Me
-
-** Suman Raju K  
+**👨‍💻 Reach Me**
+Suman Raju K  
 
 **📧 Contact:** sumanrajuk0@gmail.com  
 **🌐 GitHub:** https://github.com/Suman-2006
